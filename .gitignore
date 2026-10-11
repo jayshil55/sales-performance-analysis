@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sales_excel_dashboard_preview-01.png
+.venv/
+*.egg-info/
+dist/
+build/

@@ -1,0 +1,19 @@
+Product ID,units_sold,revenue,gross_sales,discount_amount,Product Name,Category
+PROD1,276,317226.76,321537.24,4310.48,Laptop,Electronics
+PROD2,260,178382.25,181987.0,3604.75,Smartphone,Electronics
+PROD3,297,95616.54,96510.15,893.6099999999999,Tablet,Electronics
+PROD18,255,75232.38,75977.25,744.87,Digital Camera,Electronics
+PROD5,238,54072.74,54728.1,655.36,Monitor,Electronics
+PROD17,243,49243.729999999996,49559.85,316.12,Smartwatch,Electronics
+PROD11,263,40585.979999999996,41014.85,428.87,Office Chair,Furniture
+PROD8,243,30171.3,30605.850000000002,434.55,Printer,Office Supplies
+PROD16,257,29621.84,30066.43,444.59,Portable SSD,Electronics
+PROD4,191,25879.42,26348.45,469.03,Headphones,Accessories
+PROD10,253,18022.69,18213.469999999998,190.78,Bluetooth Speaker,Electronics
+PROD6,213,11927.97,12138.87,210.9,Keyboard,Accessories
+PROD15,227,10399.43,10657.65,258.22,USB-C Hub,Electronics
+PROD13,210,8193.92,8397.9,203.98,Backpack,Apparel
+PROD12,215,6375.86,6447.849999999999,71.99,LED Lamp,Office Supplies
+PROD9,300,6203.57,6297.0,93.43,Wireless Charger,Accessories
+PROD7,226,4859.74,4960.7,100.96,Mouse,Accessories
+PROD14,242,3334.51,3385.58,51.07,Desk Organizer,Office Supplies

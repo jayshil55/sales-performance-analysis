@@ -1,0 +1,12 @@
+,value
+rows_cleaned,1478
+unique_orders,1478
+units_sold,4409
+gross_sales_before_discount,978834.1899999998
+discount_amount,13483.560000000001
+net_revenue_final_price,965350.63
+top_product_by_units,Wireless Charger
+top_product_by_revenue,Laptop
+top_location_by_revenue,Berlin
+date_start,2023-01-02
+date_end,2024-12-31
